@@ -7,4 +7,4 @@ We participated in the EAGE Minus CO2 Challenge to develop a net-zero CO2 emissi
 We don't actually know how each variable in the building of a **wind farm** project affects the final cost the wind farm. For example, water depth, number of turbines, capacity factor, nominal capacity. In order to propose a solution we need to better understand the data.
 
 ## The Methodology
-The collection of data came from this [4C's Global Offshore Wind Farm Database] (https://www.4coffshore.com/windfarms/)
+The collection of data came from this [4C's Global Offshore Wind Farm Database](https://www.4coffshore.com/windfarms/)
